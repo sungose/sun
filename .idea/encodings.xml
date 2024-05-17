@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/src/Window_Menu.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/com/echo/core/TransactionRunnable.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/com/echo/demos/six/DBNavigate.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/com/echo/demos/six/TestMenu.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/com/echo/enums/InboundAndOutboundEnum.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/com/echo/menus/TransitionFunction.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/com/echo/menus/TriggerFunction.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/com/echo/services/Test.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/com/echo/services/TestMenu.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/com/echo/services/TransactionTestService.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/com/echo/services/TriggerTestService.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/com/echo/services/Window_Menu_sun.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/com/echo/utils/JDBCTransactionUtils.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/com/echo/utils/JDBCUtils.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/com/echo/utils/ToolUtils.java" charset="UTF-8" />
+  </component>
+</project>
